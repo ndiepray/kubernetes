@@ -45,6 +45,7 @@ https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-7.-Kubernetes-Monitoring-
 https://www.notion.so/ArgoCD-8474072a10c045e8ae43130ea5aa2f3f
 
 ### K6 load test
+https://www.notion.so/k6-64e2e91bb8364d7d8ad66305419079eb
 
 ### Metric server
 https://www.notion.so/Metric-Server-0f527ff6cd97435784d6fb54dc3df46f
@@ -65,3 +66,4 @@ https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Kubernetes-Multi-Cluster-
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Minikube-Install
 
 ### K3s Install
+https://www.notion.so/K3s-ada875b7491645c1afdf328d17eba820
