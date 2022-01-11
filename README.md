@@ -4,21 +4,23 @@ https://www.notion.so/Vagrant-58041e5dc53e4172a5fed69bed360d2e
 
 ### Container-Runtime
 - Docker Install
-https://www.notion.so/Docker-Install-415afc1a3ee142c29b62620619113ca6
+  - https://www.notion.so/Docker-Install-415afc1a3ee142c29b62620619113ca6
 
 - CRI-O Install
-https://www.notion.so/CRI-O-Install-38046914df054e5fb073e13ed63c67fd
+  - https://www.notion.so/CRI-O-Install-38046914df054e5fb073e13ed63c67fd
 
 - Containerd Install
-https://www.notion.so/Containerd-Install-82d1df4ba21d432481b8c61ded5fdd8c
+  - https://www.notion.so/Containerd-Install-82d1df4ba21d432481b8c61ded5fdd8c
 
 ### Kubernetes
 - kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete, 명령어 자동 완성
-https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d'
+  - https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d'
+
 - minikube install
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Minikube-Install
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Minikube-Install
+
 - k3s install
-https://www.notion.so/K3s-ada875b7491645c1afdf328d17eba820
+  - https://www.notion.so/K3s-ada875b7491645c1afdf328d17eba820
 
 ### CNI 
 - calico
