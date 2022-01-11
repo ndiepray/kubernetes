@@ -34,6 +34,7 @@ https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-4.-Kubernetes-Storage-Roo
 
 ### Monitoring
 - Prometheus & Grafana
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-7.-Kubernetes-Monitoring---Prometheus,-Grafana-%EA%B5%AC%EC%B6%95
 
 ### log
 - Elastic Search & Loki & ?
@@ -41,9 +42,22 @@ https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-4.-Kubernetes-Storage-Roo
 ### Jenkins
 
 ### ArgoCD
+https://www.notion.so/ArgoCD-8474072a10c045e8ae43130ea5aa2f3f
 
-### K6 load Test
+### K6 load test
 
-### Metric Server
+### Metric server
 
 ### K9s
+
+### EKS Install
+
+### GKE Install
+
+### Kubernetes multi cluster management
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Kubernetes-Multi-Cluster-Management
+
+### Minikube
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Minikube-Install
+
+### K3s Install
