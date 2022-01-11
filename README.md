@@ -13,7 +13,7 @@ https://www.notion.so/CRI-O-Install-38046914df054e5fb073e13ed63c67fd
 https://www.notion.so/Containerd-Install-82d1df4ba21d432481b8c61ded5fdd8c
 
 ### Kubernetes
-- kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete
+- kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete, 명령어 자동 완성
 https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d
 
 ### CNI 
@@ -47,12 +47,16 @@ https://www.notion.so/ArgoCD-8474072a10c045e8ae43130ea5aa2f3f
 ### K6 load test
 
 ### Metric server
+https://www.notion.so/Metric-Server-0f527ff6cd97435784d6fb54dc3df46f
 
 ### K9s
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-10.-K9s
 
 ### EKS Install
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-8.-Kubernetes-Cluster-with-EKS
 
 ### GKE Install
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-9.Kubernetes-Cluster-with-GKE
 
 ### Kubernetes multi cluster management
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Kubernetes-Multi-Cluster-Management
