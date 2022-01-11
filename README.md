@@ -27,8 +27,10 @@ kubectl apply -f calico.yaml
 kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl version | base64 | tr -d '\n')"
 ```
 ### Metallb
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-3.-Kubernetes-Network-MetalLB
 
 ### Rook-Ceph 
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-4.-Kubernetes-Storage-Rook-Ceph
 
 ### Monitoring
 - Prometheus & Grafana
