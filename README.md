@@ -2,6 +2,7 @@
 ### Vagrant
 https://www.notion.so/Vagrant-58041e5dc53e4172a5fed69bed360d2e
 
+---
 ### Container-Runtime
 - Docker Install
   - https://www.notion.so/Docker-Install-415afc1a3ee142c29b62620619113ca6
@@ -11,9 +12,9 @@ https://www.notion.so/Vagrant-58041e5dc53e4172a5fed69bed360d2e
 
 - Containerd Install
   - https://www.notion.so/Containerd-Install-82d1df4ba21d432481b8c61ded5fdd8c
-
+---
 ### Kubernetes
-- kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete, 명령어 자동 완성
+- kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete, command auto completion
   - https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d
 
 - minikube install
@@ -21,7 +22,7 @@ https://www.notion.so/Vagrant-58041e5dc53e4172a5fed69bed360d2e
 
 - k3s install
   - https://www.notion.so/K3s-ada875b7491645c1afdf328d17eba820
-
+---
 ### CNI
 - calico
 ```
@@ -32,15 +33,15 @@ kubectl apply -f calico.yaml
 ```
 kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl version | base64 | tr -d '\n')"
 ```
-
+---
 ### LoadBalaner
 - Metallb
   - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-3.-Kubernetes-Network-MetalLB
-
+---
 ### Storage
 - Rook-Ceph 
   - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-4.-Kubernetes-Storage-Rook-Ceph
-
+---
 ### Monitoring system
 - Metric Server 
   - https://www.notion.so/Metric-Server-0f527ff6cd97435784d6fb54dc3df46f
@@ -50,32 +51,34 @@ kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl versio
 
 - Telegraf & InfluxDB
   - ?
-
+---
 ### logging system
 - Elastic Search & Loki & ?
    - ?
+---
 ### CI/CD
 - Jenkins
   - ?
 
 - ArgoCD
   - https://www.notion.so/ArgoCD-8474072a10c045e8ae43130ea5aa2f3f
-
+---
 ### Load Test
 - K6 & Influxdb & Grafana
   - https://www.notion.so/k6-64e2e91bb8364d7d8ad66305419079eb
-
+---
 ### Kubernetes CLI
 - k9s
   - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-10.-K9s
-
+---
 ### Kubernets Public Cloud Service
 - EKS Install
   - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-8.-Kubernetes-Cluster-with-EKS
 
 - GKE Install
   - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-9.Kubernetes-Cluster-with-GKE
-
+---
 ### Kubernetes Multi Cluster Management
 - kubeconfig
   - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Kubernetes-Multi-Cluster-Management
+---
