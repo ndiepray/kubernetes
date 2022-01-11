@@ -14,7 +14,7 @@ https://www.notion.so/Vagrant-58041e5dc53e4172a5fed69bed360d2e
 
 ### Kubernetes
 - kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete, 명령어 자동 완성
-  - https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d'
+  - https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d
 
 - minikube install
   - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Minikube-Install
@@ -22,7 +22,7 @@ https://www.notion.so/Vagrant-58041e5dc53e4172a5fed69bed360d2e
 - k3s install
   - https://www.notion.so/K3s-ada875b7491645c1afdf328d17eba820
 
-### CNI 
+### CNI
 - calico
 ```
 curl https://docs.projectcalico.org/manifests/calico.yaml -O
@@ -32,44 +32,50 @@ kubectl apply -f calico.yaml
 ```
 kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl version | base64 | tr -d '\n')"
 ```
+
 ### LoadBalaner
 - Metallb
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-3.-Kubernetes-Network-MetalLB
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-3.-Kubernetes-Network-MetalLB
 
 ### Storage
 - Rook-Ceph 
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-4.-Kubernetes-Storage-Rook-Ceph
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-4.-Kubernetes-Storage-Rook-Ceph
 
 ### Monitoring system
+- Metric Server 
+  - https://www.notion.so/Metric-Server-0f527ff6cd97435784d6fb54dc3df46f
+
 - Prometheus & Grafana
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-7.-Kubernetes-Monitoring---Prometheus,-Grafana-%EA%B5%AC%EC%B6%95
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-7.-Kubernetes-Monitoring---Prometheus,-Grafana-%EA%B5%AC%EC%B6%95
+
 - Telegraf & InfluxDB
+  - ?
 
 ### logging system
 - Elastic Search & Loki & ?
-
+   - ?
 ### CI/CD
 - Jenkins
+  - ?
+
 - ArgoCD
-https://www.notion.so/ArgoCD-8474072a10c045e8ae43130ea5aa2f3f
+  - https://www.notion.so/ArgoCD-8474072a10c045e8ae43130ea5aa2f3f
 
-### load test
-- k6
-https://www.notion.so/k6-64e2e91bb8364d7d8ad66305419079eb
-
-### Metric server
-https://www.notion.so/Metric-Server-0f527ff6cd97435784d6fb54dc3df46f
+### Load Test
+- K6 & Influxdb & Grafana
+  - https://www.notion.so/k6-64e2e91bb8364d7d8ad66305419079eb
 
 ### Kubernetes CLI
 - k9s
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-10.-K9s
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-10.-K9s
 
-### Kubernets public cloud service
+### Kubernets Public Cloud Service
 - EKS Install
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-8.-Kubernetes-Cluster-with-EKS
-- GKE Install
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-9.Kubernetes-Cluster-with-GKE
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-8.-Kubernetes-Cluster-with-EKS
 
-### Kubernetes multi cluster management
+- GKE Install
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-9.Kubernetes-Cluster-with-GKE
+
+### Kubernetes Multi Cluster Management
 - kubeconfig
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Kubernetes-Multi-Cluster-Management
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Kubernetes-Multi-Cluster-Management
