@@ -13,9 +13,7 @@ https://www.notion.so/CRI-O-Install-38046914df054e5fb073e13ed63c67fd
 https://www.notion.so/Containerd-Install-82d1df4ba21d432481b8c61ded5fdd8c
 
 ### Kubernetes
-- kubernetes install
-- kubernetes version upgrade & downgrade
-- kubernetes node add & delete
+- kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete
 https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d
 
 ### CNI 
