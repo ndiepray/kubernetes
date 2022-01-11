@@ -14,7 +14,11 @@ https://www.notion.so/Containerd-Install-82d1df4ba21d432481b8c61ded5fdd8c
 
 ### Kubernetes
 - kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete, 명령어 자동 완성
-https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d
+https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d'
+- minikube install
+https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Minikube-Install
+- k3s install
+https://www.notion.so/K3s-ada875b7491645c1afdf328d17eba820
 
 ### CNI 
 - calico
@@ -26,44 +30,43 @@ kubectl apply -f calico.yaml
 ```
 kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl version | base64 | tr -d '\n')"
 ```
-### Metallb
+### LoadBalaner
+- Metallb
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-3.-Kubernetes-Network-MetalLB
 
-### Rook-Ceph 
+### Storage
+- Rook-Ceph 
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-4.-Kubernetes-Storage-Rook-Ceph
 
-### Monitoring
+### Monitoring system
 - Prometheus & Grafana
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-7.-Kubernetes-Monitoring---Prometheus,-Grafana-%EA%B5%AC%EC%B6%95
+- Telegraf & InfluxDB
 
-### log
+### logging system
 - Elastic Search & Loki & ?
 
-### Jenkins
-
-### ArgoCD
+### CI/CD
+- Jenkins
+- ArgoCD
 https://www.notion.so/ArgoCD-8474072a10c045e8ae43130ea5aa2f3f
 
-### K6 load test
+### load test
+- k6
 https://www.notion.so/k6-64e2e91bb8364d7d8ad66305419079eb
 
 ### Metric server
 https://www.notion.so/Metric-Server-0f527ff6cd97435784d6fb54dc3df46f
 
-### K9s
+### Kubernetes CLI
+- k9s
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-10.-K9s
 
-### EKS Install
+### Kubernets public cloud service
+- EKS Install
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-8.-Kubernetes-Cluster-with-EKS
-
-### GKE Install
+- GKE Install
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-9.Kubernetes-Cluster-with-GKE
 
 ### Kubernetes multi cluster management
 https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Kubernetes-Multi-Cluster-Management
-
-### Minikube
-https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-Minikube-Install
-
-### K3s Install
-https://www.notion.so/K3s-ada875b7491645c1afdf328d17eba820
