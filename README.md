@@ -1,6 +1,7 @@
 # Kubernetes
-### Vagrant
-https://www.notion.so/Vagrant-58041e5dc53e4172a5fed69bed360d2e
+### VM
+- Vagrant
+  - https://www.notion.so/Vagrant-58041e5dc53e4172a5fed69bed360d2e
 
 ---
 ### Container-Runtime
