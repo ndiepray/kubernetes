@@ -15,7 +15,10 @@
   - https://www.notion.so/Containerd-Install-82d1df4ba21d432481b8c61ded5fdd8c
 ---
 ### Kubernetes
-- kubernetes install, kubernetes version upgrade & downgrade, kubernetes node add & delete, command auto completion
+- kubernetes install
+- kubernetes version upgrade & downgrade
+- kubernetes node add & delete
+- kubernetes command auto completion
   - https://www.notion.so/d6e4e471590a45eaadec5b98c7c6f43d
 
 - minikube install
