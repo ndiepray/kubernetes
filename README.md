@@ -54,7 +54,7 @@ kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl versio
   - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-7.-Kubernetes-Monitoring---Prometheus,-Grafana-%EA%B5%AC%EC%B6%95
 
 - Telegraf & InfluxDB
-  - ?
+  - https://github.com/ndiepray/CCCR_FLFD/wiki/%5BInfra%5D-5.-Kubernetes-InfluxDB,-Telegraf,-Grafana
 ---
 ### logging system
 - Elastic Search & Loki & ?
