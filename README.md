@@ -70,6 +70,8 @@ kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl versio
 ### Load Test
 - K6 & Influxdb & Grafana
   - https://www.notion.so/k6-64e2e91bb8364d7d8ad66305419079eb
+- code
+  - https://github.com/ndiepray/argocd/blob/main/k6.yaml
 ---
 ### Kubernetes CLI
 - k9s
